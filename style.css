@@ -1,0 +1,13 @@
+body {
+  background-color: antiquewhite;
+  font-size: 50px;
+  background-image: url("https://wallpapercave.com/wp/wp2708351.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+button {
+  font-size: 30px;
+}
